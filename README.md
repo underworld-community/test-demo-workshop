@@ -1,16 +1,8 @@
-____
-Welcome! This is a template git repository for creating REPRODUCIBLE Underworld code based projects.
+# Slab detachment Benchmark
 
-REPRODUCIBLE because this project:
-1. Is stored in a git repository.
-2. Uses a Dockerfile to recreate the exact project environment.
+_A two- and three-dimensional numerical comparison study of slab
+detachment, C. Thieulot et al, Geophysical Research Abstracts Vol. 17, EGU2015-9255, 2015_
 
-The 2 features above enable the project to take advantage of software engineering and open source principles, such as:
-_version control_, _reproducible environments_, _collaboration_ (Pull Requests, Binderhub), _continuous integration_. 
+The original poster https://dspace.library.uu.nl/bitstream/handle/1874/308096/14.pdf;sequence=1
 
-(See https://the-turing-way.netlify.com/, for a general introduction to these principle. N.B. it is data-science focussed)  
 
-*Welcome to the future of Underworld community projects.*
-
-Feel free to get rid of the above information and add your own.
-____
